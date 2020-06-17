@@ -1,2 +1,0 @@
-# paddlegame
-Created with CodeSandbox
